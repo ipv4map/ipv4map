@@ -9,7 +9,7 @@ Tool to generate a map of the ipv4 address space using hilbert curves
 the resulting image. It reads either from a file specified as argument or from stdin.
 The resulting image has the dimensions 65536x65536 making it difficult to view as a whole in 
 conventional image viewers. An example for generating tiles for viewing with as a zoomable map 
-can be found in `generate_tiles.sh`. The resulting map can be found under [https://ipv4map.github.io](https://ipv4map.github.io) ([source](https://github.com/ipv4map.github.io))
+can be found in `generate_tiles.sh`. The resulting map can be found under [https://ipv4map.github.io](https://ipv4map.github.io) ([source](https://github.com/ipv4map/ipv4map.github.io))
 
 ## Data
 Obtaining data on the whole ipv4 address space can be difficult, because most
