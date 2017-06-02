@@ -1,6 +1,6 @@
 # ipv4map
 <p align="center">
-  <img src="https://github.com/ipv4map/ipv4map.github.io/blob/master/tiles/0/0/0.png" alt="example image"/>
+  <img src="https://github.com/ipv4map/tiles_color/blob/master/0/0/0.png" alt="example image"/>
 </p>
 Tool to generate a map of the ipv4 address space using hilbert curves
 
